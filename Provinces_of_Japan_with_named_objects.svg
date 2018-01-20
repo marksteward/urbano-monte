@@ -25,7 +25,7 @@
   <g
      transform="translate(179.2089,44.57673)"
      style="display:inline"
-     id="layer3">
+     id="sea">
     <rect
        width="760.10223"
        height="794.15302"
@@ -35,7 +35,7 @@
        id="rect8775" />
   </g>
   <g
-     id="layer5">
+     id="scale">
     <g
        transform="translate(-9.305164,-1.503509)"
        style="display:inline"
@@ -102,11 +102,11 @@
   <g
      transform="translate(175.0628,185.3759)"
      style="display:inline"
-     id="layer1">
+     id="regions">
     <g
        transform="matrix(1.385313,0,0,1.385313,140.6408,419.5775)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g2458">
+       id="Kii">
       <path
          d="M 19.25,-10.75 L 14.15,-13 L 14.15,-6 L 13,-4 L 10.4,-4 L 6.65,-1 L 6.65,0.75 L 0.4,0.75 L -2.75,-1.85 L -2.75,-4.25 L -4.35,-6.6 L 0.15,-12 L 0.15,-17 L -2.75,-17 L -4.25,-16 L -7.75,-16 L -18.85,-14.75 L -17,-13.25 L -17,-11.25 L -15.5,-11.25 L -18.1,-8 L -18.1,-6.6 L -16.35,-5.35 L -18,-3.5 L -19.25,-3.5 L -19.25,-0.5 L -11.6,5.4 L -8.75,6.4 L -8.75,7.65 L -10.35,7.65 L -10.5,8.75 L -9,8.75 L -9,11.65 L -0.75,15.5 L 1.9,15.5 L 1.9,17 L 4,17 L 8.65,11.25 L 14.4,-0.75 L 18.65,-2.5 L 18.65,-5.5 L 17.15,-6.5 L 19.25,-8.25 L 19.25,-10.75"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -115,7 +115,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-101.1435,520.6108)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g3365">
+       id="Satsuma">
       <path
          d="M 18.05,-14.15 L 18.05,-7.75 L 16.55,-7.75 L 11.3,-2.9 L 11.3,-1.9 L 12.55,0.75 L 12.55,3.85 L 9.15,8.25 L 9.15,10 L 10.4,10 L 10.4,14.85 L 13.55,17.5 L 13.55,19.5 L 10.9,21 L 8.15,21 L 6.55,17.85 L -0.85,16.35 L -2.35,12.75 L -3.7,10.75 L -2.1,9.6 L -0.6,11.25 L 0.9,11.25 L 3.05,7.35 L 3.05,2 L -0.6,-1.25 L -0.6,-3.9 L 0.65,-4.9 L 0.65,-13.3 L 1.95,-14.9 L 4.55,-14.9 L 6.8,-16.75 L 8.9,-14.25 L 11.05,-14.25 L 12.4,-15.75 L 14.65,-15.75 L 18.05,-14.15"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -128,7 +128,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-50.44101,503.0174)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g2700">
+       id="Hyūga">
       <path
          d="M 2.85,-25.45 L 5.35,-25.45 L 5.35,-26.45 L 8.2,-26.45 L 8.2,-23.05 L 13.85,-23.05 L 13.85,-25.05 L 18.6,-25.05 L 18.6,-21.55 L 13.95,-17.45 L 12.35,-17.45 L 12.35,-14.45 L 13.35,-14.45 L 13.35,-12.2 L 11.8,-12.2 L 3.3,7.7 L 3.3,12.3 L 4.3,12.3 L 3.05,17.95 C 0.85,20.45 -0.75,23.533333 -1.75,27.2 L -1.8,27.3 L -4.95,26.05 L -6.3,23.7 L -4.55,19.3 L -9.3,17.3 L -11.2,12.3 L -12.7,12.3 L -14.55,11.2 L -14.55,9.2 L -13.3,9.2 L -13.3,6.8 L -18.55,1.75 L -18.55,-1.45 L -10.8,-1.45 L -8.8,-3.05 L -6.8,-3.05 L -6.8,-5.3 L -8.05,-6.7 L -6.2,-8.45 L -6.2,-10.3 L -8.7,-11.7 L -8.7,-15.95 L -7.2,-17.55 L -5.95,-17.55 L 1.35,-27.3 L 2.85,-25.45"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -137,7 +137,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-78.80598,473.8793)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g3590">
+       id="Higo">
       <path
          d="M 14.15,-19.6 L 19.4,-14.2 L 21.8,-6.2 L 14.5,3.55 L 13.25,3.55 L 11.75,5.15 L 11.75,9.4 L 14.25,10.8 L 14.25,12.65 L 12.4,14.4 L 13.65,15.8 L 13.65,18.05 L 11.65,18.05 L 9.65,19.65 L 1.9,19.65 L -1.5,18.05 L -3.75,18.05 L -5.1,19.55 L -7.25,19.55 L -9.35,17.05 L -9.35,14.8 L -6,12.55 L -6,10.8 L -3.1,7.55 L -3.1,4.55 L -0.1,2.15 L -0.1,0.9 L -4.85,0.9 L -4.85,-0.35 L -0.75,-2.85 L -0.75,-6.1 L -2.85,-7.35 L -2.85,-8.95 L -5.75,-11.45 L -2.35,-12.85 L 0.75,-17.45 L 3.65,-17.45 L 8.9,-14.6 L 12.9,-14.6 L 12.9,-18.35 L 14.15,-19.6"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -150,7 +150,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-77.63956,551.7908)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g6851">
+       id="Ōsumi">
       <path
          d="M 1,-33.4 L 6.25,-28.35 L 6.25,-25.95 L 5,-25.95 L 5,-23.95 L 6.85,-22.85 L 8.35,-22.85 L 10.25,-17.85 L 15,-15.85 L 13.25,-11.45 L 10.25,-11.45 L 8.6,-8.95 L 8.6,-7.45 L 10,-7.45 L 11.5,-4.45 L 11.5,-3.2 L 6.75,-3.2 L 6.75,-1.45 L 0.5,2.55 L -1.9,2.55 L -3,4.15 L -4.5,2.05 L -0.75,-1.95 L -0.75,-3.6 L 0.25,-3.6 L 0.25,-9.85 L -0.75,-10.1 L -1.5,-11.35 L -1.5,-14.7 L -4,-14.7 L -4,-17.6 L -2,-17.6 L -0.75,-15.45 L 0.75,-15.45 L 2.1,-18.6 L 2.1,-19.95 L -0.75,-21.7 L -4.5,-21.7 L -5.75,-24.35 L -5.75,-25.35 L -0.5,-30.2 L 1,-30.2 L 1,-33.4"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -163,7 +163,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-78.60098,446.7286)"
        style="opacity:1;fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.56999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g7742">
+       id="Chikugo">
       <path
          d="M 2.2,-8 L 8.7,-3.75 L 8.7,5.1 L 3.45,2.25 L 0.55000001,2.25 L -2.55,6.85 L -5.95,8.25 L -5.95,3.5 L -8.45,0.19999999 C -5.45,-2.2333333 -2.5333333,-4.9666667 0.30000001,-8 L 2.2,-8"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -172,7 +172,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,283.524,285.1941)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g1667">
+       id="Kōzuke">
       <path
          d="M 6.25,-15.95 L 9.4,-14.95 L 9.4,-11.8 L 11,-10.8 L 9.5,-9.7 L 9.5,-3.55 L 12.4,-2.55 L 12.4,-1.05 L 10,3.55 L 10,6.2 L 12.5,8.7 L 16.75,8.7 L 19.4,10.45 L 17,11.45 L 13.5,11.45 L 3.5,8.4 L 0.4,11.45 L 0.4,14.05 L -1.85,14.05 L -5.85,17.2 L -8,17.2 L -9.15,20.2 L -11.65,18.3 L -11.65,16.3 L -12.65,15.3 L -12.65,9.55 L -11.25,8.55 L -11.25,6.7 L -12.9,4.2 L -17.5,4.2 L -19.4,1.95 L -19.4,-0.55 L -18,-2.55 L -15.25,-4.8 L -15.25,-6.45 L -12.65,-6.45 L -10.5,-7.7 L -10.5,-9.05 L -6.25,-9.05 L -4.75,-11.95 L -2.5,-11.95 L -2.5,-17.2 L 1.85,-20.2 L 5,-15.95 L 6.25,-15.95"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -181,7 +181,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-105.0348,449.8476)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g1627">
+       id="Hizen">
       <path
          d="M -25.9,-8.65 L -28.15,-8.9 L -28.15,-10.5 L -25.9,-10.5 L -25.9,-8.65 M -28.55,-7.5 L -28.55,-5.9 L -30.3,-7.5 L -28.55,-7.5"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -206,7 +206,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-80.98994,424.3766)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g3400">
+       id="Chizuken">
       <path
          d="M 0.65,-10.15 L -1.35,-7.55 L -1.35,-5.4 L -3.6,-3.4 L -3.6,-1.65 L -4.85,-0.4 L -7.5,-0.4 L -8.75,-2.3 L -10,-2.3 L -11.85,-0.3 L -11.85,3.85 L -3.75,8.1 L 3.9,8.1 L 10.4,12.35 L 10.4,8.45 L 11.8,7.1 L 7.25,2.85 L 7.25,0.35 L 11.5,-7.05 L 11.9,-9.65 L 9.9,-12.3 L 6.4,-12.3 L 4.65,-10.15 L 0.65,-10.15"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -215,7 +215,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-56.56617,424.3364)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g5161">
+       id="Buzen">
       <path
          d="M -1.1,-3 L 0.4,-0.35 C 3.8333333,0.15 6.75,1.35 9.15,3.25 L 9.15,6.9 L 10.4,6.9 L 10.4,9.75 L 8.15,12 L 6,12 L -2.5,10 L -10.4,2.9 L -10.4,0.4 L -6.15,-7 L -5.75,-9.6 L -1.1,-12 L -2.1,-9 L -1.1,-3"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -224,7 +224,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-41.40669,446.7328)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g6049">
+       id="Bungo">
       <path
          d="M 9.3,-13.85 L 9.3,-8.1 L 5.8,-5 L 2.8,-5 L 1.55,-3.35 L 3.4,-1 L 8.8,-1 L 8.8,0.15 L 13.8,0.15 L 11.15,3.4 L 13.65,5.15 L 13.65,6.5 L 16.8,6.5 L 16.8,7.75 L 14.4,7.75 L 14.4,11.15 L 18.15,11.15 L 14.8,15.75 L 12.05,17.4 L 12.05,15.65 L 7.3,15.65 L 7.3,17.65 L 1.65,17.65 L 1.65,14.25 L -1.2,14.25 L -1.2,15.25 L -3.7,15.25 L -5.2,13.4 L -7.6,5.4 L -12.85,0 L -14.1,1.25 L -14.1,5 L -18.1,5 L -18.1,-7.75 L -16.7,-9.1 L -13.35,-6.25 L -4.85,-4.25 L -2.7,-4.25 L -0.45,-6.5 L -0.45,-9.35 L -1.7,-9.35 L -1.7,-13 L -0.2,-13 L 2.3,-16.5 L 4.4,-17.6 L 6.3,-17.6 L 9.3,-13.85"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -255,7 +255,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,44.71821,433.5016)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g11356">
+       id="Tosa">
       <path
          d="M 4.1,1.15 L -5.4,7.25 L -8.3,15 L -12.4,19.75 L -14.55,19.75 L -14.55,25 L -16.4,26.4 L -16.4,27.65 L -14.4,28.65 L -14.4,30.65 L -16.3,30.65 L -17.8,28.4 L -22.9,28.4 L -26.05,27.15 L -26.05,24.75 L -24.05,24.75 L -24.05,22.9 L -25.05,20.5 L -26.55,13.75 L -23.55,13.75 L -18.4,9.5 L -18.4,3.4 L -13.9,3.4 C -11.8,-2.1333333 -8.7166667,-6.35 -4.65,-9.25 L -0.05,-9.25 L 2.2,-8.1 L 3.85,-10.35 L 9.8,-10.6 L 15.8,-8.35 L 17.05,-9.35 L 19.2,-9.35 L 19.2,-5.1 L 23.05,-3.1 L 23.05,-0.35 L 24.3,1.9 L 26.55,1.9 C 24.316667,3.8333333 23,7.3833333 22.6,12.55 L 12.7,2.4 L 4.1,1.15"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -264,7 +264,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,77.05833,419.1748)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g12244">
+       id="Awa">
       <path
          d="M 8.65,-11.1 L 0,-11.1 L -5,-7.5 L -7.1,-9.5 L -14.5,-6.45 L -16.1,-4.85 L -16.1,-0.1 L -13.5,-0.1 L -7.5,2.15 L -6.25,1.15 L -4.1,1.15 L -4.1,5.4 L -0.25,7.4 L -0.25,10.15 L 1,12.4 L 3.25,12.4 C 5.3833333,9.4 8.7333333,6.5166667 13.3,3.75 L 16.15,2.5 L 13.65,1 L 15.05,-0.5 L 15.05,-1.85 L 13.65,-4.25 L 12.15,-4.25 L 12.15,-8.6 L 14.05,-10.6 L 12.65,-12.35 L 8.65,-12.35 L 8.65,-11.1"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -273,7 +273,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,69.8488,396.885)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g13132">
+       id="Sanuki">
       <path
          d="M 5.1,-6.35 L 4.85,-8 L 6.6,-8 L 8.1,-9.5 L 11.1,-9.5 L 11.1,-5.1 L 7.7,-5.1 L 6.6,-6.35 L 5.1,-6.35"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -286,7 +286,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,20.13721,434.7262)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g14023">
+       id="Iyo">
       <path
          d="M 13.05,-10.2 C 8.9833333,-7.3 5.9,-3.0833333 3.8,2.45 L -0.7,2.45 L -0.7,8.55 L -5.85,12.8 L -8.85,12.8 L -7.35,19.55 L -6.35,21.95 L -11.45,21.95 L -15.1,16.7 L -12.85,14.95 L -14.2,11.05 L -11.85,11.05 L -11.85,9.45 L -13.6,7.7 L -11.7,6.55 L -15.2,6.55 L -15.2,2.3 L -16.7,0.7 L -21.7,3.8 L -22.85,5.2 L -26.5,5.2 L -24,2.05 L -21.1,2.05 L -5.1,-9.45 L -5.1,-14.3 L -3.5,-14.3 L -2.1,-18.45 L 3,-21.95 L 7.75,-15.2 L 11.65,-15.2 L 19.9,-16.2 L 21.8,-17.9 L 26.5,-17.9 L 24.9,-16.3 L 24.9,-11.55 L 21.55,-11.3 L 19.9,-9.05 L 17.65,-10.2 L 13.05,-10.2"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -295,7 +295,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,106.0696,392.8696)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g14911">
+       id="Awaji">
       <path
          d="M 3.85,-3.3 L 5.35,-6.4 L 3.85,-7.3 L -3.3,-0.15 L -3.3,1.6 L -5.3,2.95 L -5.3,5.1 L -3.9,7.35 L -0.8,7.35 L 0.45,5.85 L 2.2,5.85 L 3.2,4.35 L 1.2,2.7 L 1.2,-0.9 L 3.85,-3.3"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -304,7 +304,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-43.28242,390.9642)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g15799">
+       id="Nagato">
       <path
          d="M 13.5,-2.85 L 12.1,-4.7 L 12.1,-12.6 L 9.2,-12.6 L -0.15,-3.35 L -3.05,-3.35 L -3.05,-5.2 L -5.15,-5.2 L -5.15,-4.1 L -8.55,-4.1 L -10.55,-5.1 L -10.55,-2.6 L -13.65,-2.6 L -13.65,1.3 L -12.3,1.3 L -12.3,3.65 L -14.4,5.65 L -13.05,7.8 L -13.05,12.4 L -10.2,9.8 L -7.65,9.8 L -4.9,12.65 L -1.05,12.65 L 0.6,10.55 L 2.2,10.55 L 2.2,12.15 L 4.2,12.15 L 4.2,10.05 L 8.85,5.3 L 8.85,2.65 L 11.95,2.65 L 14.4,0.35 L 13.5,-0.6 L 13.5,-2.85"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -313,7 +313,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-22.31029,402.9685)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g1687">
+       id="Suwo">
       <path
          d="M 0,-7.55 L -0.85,-8.5 L -3.3,-6.2 L -6.4,-6.2 L -6.4,-3.55 L -11.05,1.2 L -8.9,3.2 L -5.8,1.55 L -1.8,1.55 L -1.8,5.95 L -0.15,5.95 L 1.6,4.45 L 7.6,8.8 L 11.1,4.8 L 11.1,-1.55 L 6.35,-8.8 L 3.85,-7.55 L 0,-7.55"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -322,7 +322,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,7.30722,383.0832)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g2575">
+       id="Aki">
       <path
          d="M 6.1,-12.85 L 1.6,-10.6 L -7.15,-10.6 L -10.5,-7.85 L -11.65,-2.1 L -13,-0.85 L -13,0.75 L -14.9,2.25 L -14.9,5.65 L -10.15,12.9 L -8.9,8.5 L -4.05,4.85 L -1.4,6.5 L -1.4,7.85 L 0.95,11 L 5.7,11 L 9.95,7.1 L 14.95,7.1 L 14.95,4.6 L 11.95,-1.5 L 6.95,-3.9 L 6.95,-5.9 L 9.2,-8.25 L 6.1,-12.85"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -331,7 +331,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,31.95805,373.3611)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g3463">
+       id="Bingo">
       <path
          d="M 0.05,-12.95 L -1.1,-13.95 L -6.1,-13.95 L -11.7,-7.6 L -11.7,-5.8 L -8.6,-1.2 L -10.85,1.15 L -10.85,3.15 L -5.85,5.55 L -2.85,11.65 L -2.85,14.15 L -0.8,14.15 L -0.8,12.65 L 3.2,12.65 L 4.2,11.05 L 5.3,11.05 L 5.3,12.9 L 7.3,12.9 L 11.7,9.4 L 11.7,6.65 L 7.55,-4.7 L 7.55,-10.6 L 3.65,-14.15 L 2.65,-12.95 L 0.05,-12.95"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -340,7 +340,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,50.0129,368.6063)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g4351">
+       id="Bitchū">
       <path
          d="M 0,-12.95 L -4.35,-8.85 L -7.45,-8.8 L -5.5,-7.05 L -5.5,-1.15 L -1.35,10.2 L -1.35,12.95 L 2.4,12.95 L 7.5,9.1 L 7.5,4.7 L 3.4,0.45 L 3.4,-7.15 L 0,-12.95"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -349,7 +349,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,69.23261,376.7667)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g5239">
+       id="Bizen">
       <path
          d="M 9.6,-8.8 L 6.75,-7.65 L -10.5,-8.05 L -10.5,-5.55 L -6.4,-1.3 L -6.4,3.1 L -8.95,5.05 L -8.95,7.2 L -6.5,7.2 L -6.5,8.85 L -4.75,8.85 L -1.4,7.7 L 2,3.6 L 5.1,3.6 L 10.5,-1.65 L 9.6,-5.05 L 9.6,-8.8"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -358,7 +358,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,68.69866,354.7993)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g6127">
+       id="Mimakasa">
       <path
          d="M 13.6,-2.55 L 13.6,1.05 L 9.95,4.8 L 9.95,7.05 L 7.1,8.2 L -10.15,7.8 L -10.15,2.7 L -13.55,-3.1 L -9.15,-7.3 L 1.35,-7.3 L 2.3,-8.2 L 4.95,-7.45 L 8.85,-2.55 L 13.6,-2.55"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -367,7 +367,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,100.4674,364.9772)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g7015">
+       id="Harima">
       <path
          d="M 7.5,-7.75 L 10.8,-2.85 L 13.15,-1.7 L 10.55,12.4 L 0.9,5.8 L -1.45,5.8 L -1.45,6.8 L -4.45,6.8 L -4.45,5.3 L -7.85,5.3 L -9.35,6.8 L -12.2,6.8 L -13.1,3.4 L -13.1,-2.6 L -9.45,-6.35 L -9.45,-9.95 L -5.7,-12.35 L -5.7,-10.85 L -1.35,-11.1 L 0.4,-9.35 L 7.55,-9.35 L 7.5,-7.75"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -376,7 +376,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,-5.454081,368.5817)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g7903">
+       id="Iwami">
       <path
          d="M 13.9,-15.1 L 15.25,-8.75 L 15.25,-2.35 L 10.75,-0.1 L 2,-0.1 L -1.35,2.65 L -2.5,8.4 L -3.85,9.65 L -3.85,11.25 L -5.75,12.75 L -5.75,16.15 L -8.25,17.4 L -12.1,17.4 L -13.85,15.5 L -13.85,13.25 L -15.25,11.4 L -15.25,3.5 L -12.85,3.5 L -2.25,-6.5 L 3.25,-10.35 L 4.75,-10.35 L 5.9,-11.5 L 5.9,-12.6 L 8.25,-15.85 L 11.25,-17.35 L 13.9,-15.1"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -385,7 +385,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,26.90032,344.8485)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g8791">
+       id="Izumo">
       <path
          d="M 7.45,-6.05 L 10.55,-6.05 L 12.05,-2.4 L 12.05,0.35 L 6.3,7.6 L 3.7,7.6 L 2.55,6.6 L -2.45,6.6 L -8.05,12.95 L -8.05,8.35 L -9.4,2 L -12.05,-0.25 L -8.2,-3.4 L -8.2,-5.05 L -9.55,-6.8 L -5.8,-6.8 L -3.05,-9.3 L 1.3,-9.3 L 5.55,-12.9 L 7.3,-10.65 L 11.95,-10.65 L 9.95,-9.15 L 6.2,-9.15 L 4.95,-8.05 L 0.7,-8.05 L -1.2,-5.65 L 1.05,-5.65 L 3.45,-7.05 L 5.95,-7.05 L 7.45,-6.05"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -394,7 +394,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,55.02906,344.2737)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g9679">
+       id="Hōki">
       <path
          d="M 2.85,-7.65 L -0.25,-8.65 L -3.75,-8.65 L -5.4,-5.8 L -6.75,-5.8 L -9.5,-7.9 L -11.15,-7.9 L -9.8,-5.55 L -8.3,-1.9 L -8.3,0.85 L -13.05,6.9 L -11.1,8.7 L -8,8.65 L 0.75,0.35 L 11.25,0.35 L 13.1,-1.4 L 13.1,-3.65 L 10.35,-7.65 L 2.85,-7.65"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -403,7 +403,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,37.78752,298.7218)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g10567">
+       id="Oki">
       <path
          d="M 7.15,-0.95 L 4.75,0.55 L 3.15,0.2 L 0.75,-1.3 L 0.75,-3.95 L 3.25,-6.95 L 7.15,-3.8 L 7.15,-0.95"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -416,7 +416,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,81.09777,339.8517)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g11458">
+       id="Ibana">
       <path
          d="M 6.45,-4.4 L 8.45,1 L 8.45,5.85 L 4.7,8.25 L -0.05,8.25 L -3.95,3.35 L -6.6,2.6 L -5.7,1.75 L -5.7,-0.5 L -8.45,-4.5 L -6.55,-5.75 L -4.05,-4.25 L -2.8,-5.25 L 0.45,-5.25 L 4.45,-8.25 L 6.45,-8.25 L 6.45,-4.4"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -425,7 +425,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,104.2452,339.2505)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g12346">
+       id="Tajima">
       <path
          d="M 3.05,-3.6 L 6.3,-2.1 L 9.05,-2.1 L 10.3,-0.25 L 5.05,4 L 4.95,9.25 L -2.2,9.25 L -3.95,7.5 L -8.3,7.75 L -8.3,1.4 L -10.3,-4 L -10.3,-7.85 L -7.2,-9.25 L -5.7,-8.25 L 3.05,-8.25 L 3.05,-3.6"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -434,7 +434,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,126.5251,352.8958)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g13234">
+       id="Tanba">
       <path
          d="M 11.2,-6.3 L 11.2,0.7 L 6.1,10.1 L 3.35,10.1 L -0.15,7.1 L -5.55,7.1 L -7.9,5.95 L -11.2,1.05 L -11.15,-0.55 L -11.05,-5.8 L -5.8,-10.05 L -2.9,-6.15 L -1.3,-6.15 L 4.2,-9.8 L 11.2,-6.3"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -443,7 +443,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,121.4827,332.9459)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g14122">
+       id="Tango">
       <path
          d="M 0.2,-0.7 L 3.7,2.55 L 7.95,-1.7 L 9.45,0.55 L 7.8,1.95 L 7.8,4.55 L 2.3,8.2 L 0.7,8.2 L -3.45,2.45 L -6.2,2.45 L -9.45,0.95 L -9.45,-3.7 L -7.3,-3.7 L -3.45,-7.3 L -1.2,-7.3 L -1.2,-8.2 L 2.8,-8.2 L 3.95,-5.3 L 0.2,-0.7"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -452,7 +452,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,126.665,373.1781)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g15010">
+       id="Settsu">
       <path
          d="M 5.9,-4.65 L 3.15,-4.65 L -0.35,-7.65 L -5.75,-7.65 L -8.4537844,6.6575688 L -2.7037844,3.3075688 L 0.65,3.1 L 3,5.6 L 3,7.7 L 6.4,7.7 L 8.4,-0.4 L 8.4,-3.05 L 5.9,-4.65"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -461,7 +461,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,125.047,391.4615)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g15898">
+       id="Izumi">
       <path
          d="M 7.65,-5.5 L 4.25,-5.5 L 4.25,-3.35 L 0.75,0.5 L -7.6,5.5 L 3.5,4.25 L 6.75,-1.1 L 7.65,-5.5"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -474,7 +474,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,149.3606,398.9381)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g22122">
+       id="Yamato">
       <path
          d="M 9.7,-8.85 L 5.6,-8.85 L 5.6,-13.75 L 4.45,-14.75 L -1.65,-14.75 L -4.3,-15.75 L -7.4,-10.75 L -7.4,-8.5 L -6.15,-7.25 L -6.15,3 L -10.65,8.4 L -9.05,10.75 L -9.05,13.15 L -5.9,15.75 L 0.35,15.75 L 0.35,14 L 4.1,11 L 6.7,11 L 7.85,9 L 7.95,-0.85 L 6.35,-0.85 L 6.35,-4.25 L 7.7,-4.25 L 10.7,-6.25 L 9.7,-8.85"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -483,7 +483,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,146.1869,361.9531)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g23010">
+       id="Yamashiro">
       <path
          d="M 0.45,-12.85 L -3.05,-12.85 L -3.05,-5.85 L -8.15,3.55 L -5.65,5.15 L -2.05,10.9 L 0.6,11.9 L 6.7,11.9 L 7.85,12.9 L 7.85,10.9 L 8.2,7.9 L 7.2,7.9 L 2.35,5.3 L 1.2,2.4 L 1.2,-3.6 L 2.45,-3.6 L 2.45,-10.7 L 0.45,-12.85"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -492,7 +492,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,136.5645,383.5487)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g23919">
+       id="Kawa">
       <path
          d="M 3.0454128,9.0103211 L 3.1834965,3.8726039 L 1.9849668,2.5113885 L 2.0138275,0.20348068 L 4.9,-4.5 L 1.5075688,-9.8348624 L 1.3,-7.6 L -0.68493811,-0.19173449 L -1.5072271,4.33775 L -4.7405049,9.9594612 L -1.351934,10.041328 L 0.25307337,8.936706 L 2.9786697,9.0830275"
          style="opacity:1;fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -501,7 +501,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,144.9041,336.9356)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g30924">
+       id="Wasaka">
       <path
          d="M 9.15,-0.15 L 3.55,3.95 L 1.4,3.95 L 1.4,5.2 L -2.1,5.2 L -9.1,1.7 L -9.1,-0.9 L -7.45,-2.3 L -6.2,-0.8 L -3.85,-0.8 L -3.85,0.45 L -0.35,0.45 L -1.7,-1.65 L -1.7,-2.65 L 0.05,-2.65 L 1.3,-1.15 L 2.9,-2.8 L 2.9,-5.15 L 5.05,-5.15 L 5.05,-4.05 L 9.15,-4.05 L 9.15,-0.15"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -510,7 +510,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,173.4006,316.2833)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g31812">
+       id="Echizen">
       <path
          d="M 10.8,-2 L 13.45,1 L 13.45,2.85 L 10.95,4.5 L -1.05,4.5 L -4,8.25 L -7.15,8.25 L -7.15,11.5 L -11.4,14.75 L -11.4,10.85 L -13.45,10.85 L -13.45,5.75 L -11.4,5.75 L -11.4,8.6 L -9.15,8.6 L -9.15,3.75 L -12.55,1.25 L -12.55,-4.65 L -7.3,-13.25 L -4.05,-14.75 L -1.65,-12.5 L -1.65,-9.9 L 1.1,-8.4 L 3.95,-8.4 L 6.85,-6.4 L 10.8,-6.4 L 10.8,-2"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -519,11 +519,11 @@
     <path
        d="M 193.76545,266.93297 L 193.76545,270.25771 L 190.09437,275.79896 L 190.09437,283.7645 L 191.82601,283.7645 L 191.82601,287.36632 L 189.60951,289.09797 L 189.60951,296.37087 L 191.47968,297.75618 L 191.47968,302.11992 L 188.29347,307.45338 L 182.82148,307.45338 L 178.80407,304.68275 L 174.85593,304.68275 L 171.04632,302.60476 L 171.04632,299.00295 L 167.72158,295.88601 L 169.8688,293.80804 L 169.8688,292.42272 L 172.77797,292.42272 L 178.3192,284.45716 L 184.06826,277.5306 L 189.60951,264.71647 L 193.76545,266.93297"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.8311879;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1781" />
+       id="Kaga" />
     <g
        transform="matrix(1.385313,0,0,1.385313,200.3956,248.9502)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g2667">
+       id="Noto">
       <path
          d="M 2.8,-2.05 L -0.15,1.7 L -2.9,-0.15 L -4.55,3.95 L -4.55,5.6 L -1.65,6.85 L 0.95,4.85 L 0.95,9.95 L -2.05,9.95 L -4.75,12.95 L -7.75,11.35 L -7.75,9.1 L -9.4,7.1 L -9.4,3.6 L -10.3,3.1 L -10.3,-0.3 L -9.3,-0.3 L -9.3,-4.15 L -4.8,-6.9 L -0.65,-6.9 L 4.1,-10.4 L 8.85,-10.4 L 10.35,-8.9 L 10.35,-7.15 L 7.45,-7.15 L 7.45,-4.6 L 5.1,-2.05 L 2.8,-2.05 M -2.5,4.7 L -2.5,3.2 L 0.25,3.2 L -0.75,4.7 L -2.5,4.7"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -532,7 +532,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,209.8891,280.6033)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g3555">
+       id="Etchū">
       <path
          d="M 10.2,-13.35 L 12.55,-13.35 L 14.7,-8.95 L 14.7,0.8 L 9.8,8.9 L 7.8,8.9 L 4.45,6.9 L -2.9,6.9 L -6.55,10.55 L -7.8,13.4 L -9.7,13.4 L -9.7,10.8 L -12.2,10.8 L -13.95,11.9 L -14.65,11.4 L -14.65,6.15 L -13.05,4.9 L -13.05,2.3 L -14.3,2.3 L -14.3,-3.45 L -11.65,-7.45 L -11.65,-9.85 L -8.95,-12.85 L -5.95,-12.85 L -5.95,-11.45 L -7.45,-10.45 L -7.45,-8.35 L -3.3,-4.95 L 0.55,-4.95 L 4.45,-7.45 L 4.45,-11.1 L 10.2,-13.35"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -541,7 +541,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,271.8513,227.1328)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g4443">
+       id="Echigo">
       <path
          d="M 21.6,-33.2 L 19.45,-27.95 L 18.1,-19.8 L 14.6,-13.45 L 5.2,-9.2 L 0.35,-4.55 L -1.4,1.2 L -6.55,10.45 L -15.9,16.95 L -15.9,18.45 L -20.65,18.45 L -24.65,22.05 L -32.15,25.3 L -30,29.7 L -30,33.2 L -28.05,31.05 L -28.05,27.95 L -23.05,27.95 L -21.55,30.2 L -15.05,30.2 L -9.4,23.3 L -6.55,23.3 L -4.65,24.55 L -4.65,27.45 L -3.15,29.05 L -3.15,32.95 L 2.1,32.95 L 3.6,30.05 L 5.85,30.05 L 5.85,24.8 L 10.2,21.8 L 13.35,26.05 L 14.6,26.05 L 14.6,21.7 L 13.2,16.55 L 11.95,16.55 L 11.95,12.05 L 13.2,11.8 L 13.2,6.75 L 14.45,5.95 L 17.7,5.95 L 19.2,4.45 L 23.95,4.45 L 23.95,-0.05 L 27.35,-4.7 L 23.95,-8.7 L 25.7,-12.8 L 25.7,-18.7 L 27.45,-20.55 L 29.95,-20.55 L 32.2,-22.3 L 29.2,-25.95 L 27.45,-25.95 L 27.45,-29.8 L 21.6,-33.2"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -550,7 +550,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,255.4956,206.2509)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g5331">
+       id="Sado">
       <path
          d="M 1.45,-3.3 L 1.45,-0.4 L 4.45,-0.4 L 5.45,0.6 L 3.45,4.7 L 0.45,7.6 L -2.8,9.7 L -5.45,9.7 L -5.45,8.2 L -3.2,6.45 L -1.8,3.7 L -3.05,1.95 L -4.7,3.45 L -4.7,-1.65 L 0.45,-8.05 L 2.2,-9.65 L 3.7,-9.65 L 3.7,-7.55 L 1.45,-3.3"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -559,7 +559,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,161.6054,380.2418)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g6234">
+       id="Iga">
       <path
          d="M 1.3,-7.3 L -1.95,-7.3 L -2.95,-5.2 L -3.3,-2.2 L -3.3,4.7 L 0.8,4.7 L 1.8,7.3 L 3.3,1.45 L 3.3,-4.55 L 1.3,-7.3"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -568,7 +568,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,172.9695,378.383)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g7122">
+       id="Ise">
       <path
          d="M 6.3,-18.85 L 4.95,-20.25 L 2.8,-20.25 L 1.05,-18.35 L 1.05,-13.1 L -3.7,-6.1 L -6.95,-6.1 L -4.95,-3.35 L -4.95,2.65 L -6.45,8.5 L -9.45,10.5 L -10.8,10.5 L -10.8,13.9 L -9.2,13.9 L -9.3,16.75 L -4.2,19 L -4.2,20.25 L 3.95,16.15 L 7.8,14.75 L 10.8,11.25 L 10.8,7.5 L 4.05,2.9 L 4.05,0.55 L 2.95,0.55 L 2.95,-1.35 L 7.95,-8.35 L 10.05,-12.85 L 7.45,-16 L 6.3,-16 L 6.3,-18.85"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -577,7 +577,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,189.0706,395.3973)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g8010">
+       id="Shima">
       <path
          d="M 2.05,-4.8 L -0.85,-4.8 L -0.85,-1.05 L -3.85,2.45 L -1.1,2.45 L -1.1,4.85 L 2.55,4.85 L 2.55,0.85 L 3.9,-0.8 L 3.9,-2.9 L 2.05,-2.9 L 2.05,-4.8"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -586,7 +586,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,197.3714,361.6996)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g8898">
+       id="Owari">
       <path
          d="M 8.9,-9 L 1.9,-9 L 1.9,-12.25 L -3,-12.25 L -7.25,-10.5 L -7.25,-8.65 L -8.85,-7.5 L -8.8,-2.35 L -7.5,-0.75 L -3.85,-0.75 L -3.85,0.5 L -5,1.5 L -5,5.75 L -3.75,5.75 L -3.75,10.5 L -1.25,12.25 L -1.25,5.25 L 1.9,0.5 L 4.4,-1 L 4.4,-3.15 L 8.9,-9"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -595,7 +595,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,214.1978,367.1742)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g9786">
+       id="Mikawa">
       <path
          d="M 5.95,-13.25 L 5.95,-10 L 9.6,-10 L 9.6,-11.4 L 12.2,-11.4 L 13.45,-9.9 L 13.45,-8 L 7.35,2.75 L 3.85,4.35 L 3.85,9.35 L -8.05,13.25 L -11.3,13.25 L -11.3,11.85 L -8.65,9.5 L -5.05,9.5 L -0.8,7.5 L -0.8,5.5 L -1.8,4.35 L -5.4,4.35 L -5.4,5.35 L -10.15,5.35 L -13.4,3 L -13.4,1.25 L -10.25,-3.5 L -7.75,-5 L -7.75,-7.15 L -3.25,-13 L 2.35,-10.4 L 5.95,-13.25"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -604,7 +604,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,235.9123,364.1542)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g10674">
+       id="Tōtomi">
       <path
          d="M 6.65,-14.2 L -2.25,-7.7 L -2.25,-5.8 L -8.35,4.95 L -11.85,6.55 L -11.85,11.55 L -9.75,7.45 L -7.6,7.45 L -9.1,9.95 L -6.75,11.8 L 3.75,11.8 L 10.25,14.2 L 10.25,10.45 L 11.9,8.7 L 9.5,8.7 L 8,3.55 L 8,1.95 L 8.9,1.95 L 8.9,-8.95 L 6.65,-10.95 L 6.65,-14.2"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -613,7 +613,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,264.5592,353.2033)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g11562">
+       id="Suruga">
       <path
          d="M 14.05,-5.8 L 8.9,-8.55 L 8.9,-7.55 L 3.4,-6.3 L 1.3,-8.3 L -0.45,-8.3 L -0.45,-0.9 L -2.2,0.35 L -4.1,0.35 L -7.7,-4.9 L -10.2,-4.9 L -10.2,-8.65 L -9.1,-8.65 L -9.1,-12.3 L -11.45,-16.55 L -14.05,-6.3 L -14.05,-3.05 L -11.8,-1.05 L -11.8,9.85 L -12.7,9.85 L -12.7,11.45 L -11.2,16.6 L -8.8,16.6 L -5.45,9.95 L -1.6,7.1 L -1.6,5.45 L 2.05,2.6 L 7.05,2.6 L 9.55,4.6 L 13.4,0.1 L 12.3,-1.15 L 12.3,-3.15 L 14.05,-5.8"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -622,7 +622,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,279.9373,368.1619)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g12450">
+       id="Izu">
       <path
          d="M 2.3,-10.65 L -1.55,-6.15 L -1.55,-4.65 L -5.2,-4.65 L -5.2,6.1 L -6.3,6.1 L -6.3,8.1 L -3.45,10.7 L -1.05,10.7 L 1.8,7.85 L 5.05,0.95 L 6.3,0.95 L 6.3,-2.55 L 4.8,-4.05 L 4.8,-8.15 L 2.3,-10.65"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -631,7 +631,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,295.4648,342.4049)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g13338">
+       id="Sagami">
       <path
          d="M -5.25,-5.75 L -13.4,-0.75 L -8.25,2 L -10,4.65 L -10,6.65 L -6.4,10.4 L -5,8.9 L -5,6.65 L 1.65,2.25 L 6.25,2.25 L 8.4,3.9 L 9.9,7.4 L 9.9,9.65 L 11,9.65 L 11,6.15 L 13.4,4.65 L 13.4,3.5 L 10.75,3.5 L 10.75,0 L 9.15,0 L 3.5,-5.85 L -5.25,-10.35 L -5.25,-5.75"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -640,7 +640,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,268.4559,333.6594)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g14226">
+       id="Kai">
       <path
          d="M 1.6,-12.25 L -0.15,-10.4 L -2,-10.4 L -2,-11.9 L -5.9,-11.9 L -8.25,-14.5 L -9.4,-14.5 L -10.9,-10.9 L -12.75,-10.9 L -14.25,-7.9 L -14.25,-2.4 L -11.9,1.85 L -11.9,5.5 L -13,5.5 L -13,9.25 L -10.5,9.25 L -6.9,14.5 L -5,14.5 L -3.25,13.25 L -3.25,5.85 L -1.5,5.85 L 0.6,7.85 L 6.1,6.6 L 6.1,5.6 L 14.25,0.6 L 14.25,-4 L 9.1,-6.25 L 6.1,-10.65 L 1.6,-12.25"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -649,7 +649,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,296.0446,319.5789)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g15114">
+       id="Musashi">
       <path
          d="M 17.45,-2.55 L 17.45,4.1 L 18.2,5.35 L 18.2,7.7 L 14.05,7.7 L 14.05,10.45 L 10.45,13.1 L 10.45,16.45 L 8.85,16.45 L 3.2,10.6 L -10.7,3.85 L -13.7,-0.55 L -18.2,-2.15 L -18.2,-4.65 L -17.05,-7.65 L -14.9,-7.65 L -10.9,-10.8 L -8.65,-10.8 L -8.65,-13.4 L -5.55,-16.45 L 4.45,-13.4 L 7.95,-13.4 L 10.35,-14.4 L 15.7,-2.55 L 17.45,-2.55"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -658,7 +658,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,326.6336,358.8296)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g16002">
+       id="Awa">
       <path
          d="M 4.2,-2.4 L -1.4,1.35 L -1.4,4.1 L -3.8,6.35 L -6.3,6.35 L -8.55,2.35 L -5.4,2.35 L -7.3,0.35 L -6.3,-1.65 L -7.55,-2.65 L -7.55,-5.15 L -5.4,-6.35 L -5.4,-4.9 L -1.3,-4.9 L -1.3,-5.9 L 3.35,-5.9 L 8.6,-3.75 L 4.2,-2.4"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -667,7 +667,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,332.8114,339.2766)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g16890">
+       id="Kasuza">
       <path
          d="M 3.05,-5.05 L 0.9,-4 L -2.9,-4 L -8.35,0.55 L -8.35,1.7 L -11.75,4.3 L -11.75,6.45 L -9.85,6.45 L -9.85,9.3 L -5.75,9.3 L -5.75,8.3 L -1.1,8.3 L 4.15,10.45 L 6.3,8.45 L 7.05,6.2 L 7.05,3.05 L 6.05,3.05 L 6.05,-0.3 L 8.65,-5.2 L 11.8,-8.05 L 8.15,-10.45 L 5.55,-10.45 L 3.05,-5.05"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -676,7 +676,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,335.5329,314.83)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g17778">
+       id="Shimofusa">
       <path
          d="M -18.15,-10.95 L -12.8,0.9 L -11.05,0.9 L -11.05,7.55 L -10.3,8.8 L -8.05,8.8 L -4.3,12.05 L -4.3,13.15 L -4.85,13.6 L -1.05,13.6 L 1.1,12.55 L 3.6,7.15 L 6.2,7.15 L 9.85,9.55 L 13.1,7.4 L 18.2,7.4 L 18.2,5.9 L 6.85,0.4 L 2.2,0.4 L -5.55,-3.1 L -7.8,-5.35 L -7.8,-10.2 L -12.9,-13.6 L -18.15,-10.95"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -685,7 +685,7 @@
     <path
        d="M 348.99673,284.52921 L 348.99673,292.14843 L 347.12655,293.67229 L 347.12655,301.63781 L 358.97097,322.20973 L 345.04858,315.49096 L 338.60687,315.49096 L 327.87069,310.64236 L 324.75373,307.52542 L 324.75373,300.80664 L 317.68865,296.09657 L 328.07848,290.20899 L 331.19544,290.55533 L 335.00504,285.56819 L 335.00504,264.92702 L 333.96607,264.92702 L 333.96607,262.08712 L 337.77567,265.27335 L 343.31693,265.27335 L 347.6114,262.01787 L 351.62881,262.01787 L 356.82373,265.61968 L 356.82373,268.39032 C 352.76016,273.79304 350.15115,279.17265 348.99673,284.52921"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.8311879;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path18668" />
+       id="Hitachi" />
     <path
        d="M 344.84076,303.02313 L 350.38204,312.02767 L 350.58982,314.79831 L 348.51187,313.06667 L 344.84076,306.83275 L 344.84076,303.02313 M 345.3949,312.58181 L 341.3775,304.75478 L 337.08301,302.33048 L 337.01376,303.92359 L 338.95318,305.65524 L 337.08301,307.87175 L 332.71929,305.44744 L 332.71929,307.38687 L 340.89263,311.33502 L 345.3949,312.58181"
        style="fill:#daf0fd;fill-opacity:1;stroke:#27aaea;stroke-width:0.8311879;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -693,15 +693,15 @@
     <path
        d="M 163.42017,332.26876 L 149.77482,342.45082 L 146.79642,342.45082 L 146.79642,344.18245 L 149.56703,347.16088 L 149.56703,356.99661 L 147.83539,356.99661 L 147.83539,365.30849 L 149.4285,369.32589 L 156.14728,372.92769 L 157.53259,372.92769 L 158.91789,370.01855 L 167.92244,370.01855 L 174.50267,360.32135 L 174.50267,353.04846 L 172.07837,348.19987 L 174.71047,343.83612 L 174.71047,338.50266 L 172.56324,335.10865 L 170.34674,335.03938 L 170.13893,331.43759 L 167.78391,327.76651 L 163.42017,327.76651 L 163.42017,332.26876"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.8311879;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path21305" />
+       id="Ōmi" />
     <path
        d="M 163.76651,339.68019 L 167.78391,345.56776 L 167.78391,348.3384 L 163.28163,350.41636 L 158.22523,354.57231 L 158.22523,356.51175 L 154.62343,356.51175 L 151.16014,364.13096 L 151.16014,358.24339 L 152.89179,354.91864 L 152.89179,352.14799 L 157.74037,346.81455 L 157.87891,340.92697 L 163.76651,337.11736 L 163.76651,339.68019"
        style="fill:#daf0fd;fill-opacity:1;stroke:#27aaea;stroke-width:0.8311879;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path21307" />
+       id="Biwa" />
     <g
        transform="matrix(1.385313,0,0,1.385313,196.791,334.2444)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g23940">
+       id="Mino">
       <path
          d="M 0.25,-13.45 L -3.75,-17.45 L -6.15,-17.45 L -6.15,-14.95 L -3.5,-11.95 L -3.5,-10.1 L -6,-8.45 L -18,-8.45 L -20.95,-4.7 L -19.25,-2.05 L -19.1,0.55 L -17.5,0.6 L -15.95,3.05 L -15.95,6.9 L -17.85,10.05 L -16.1,13.55 L -14.35,11.65 L -12.2,11.65 L -10.85,13.05 L -10.85,15.9 L -9.7,15.9 L -8.4,17.45 L -8.45,12.3 L -6.85,11.15 L -6.85,9.3 L -2.6,7.55 L 2.3,7.55 L 2.3,10.8 L 9.3,10.8 L 14.9,13.4 L 18.5,10.55 L 20,8.9 L 21,5.8 L 21,1.4 L 18.6,1.4 L 17.35,-0.45 L 17.35,-4.35 L 14.45,-6.35 L 8.25,-3.35 L 4.35,-3.35 L 2.75,-4.7 L 5.35,-7.35 L 5.35,-11.95 L 4.25,-13.45 L 0.25,-13.45"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -710,7 +710,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,206.4397,309.7972)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g24828">
+       id="Hida">
       <path
          d="M 12.35,-8.35 L 12.35,-12.25 L 10.35,-12.25 L 7,-14.25 L -0.35,-14.25 L -4,-10.6 L -5.25,-7.75 L -7.15,-7.75 L -7.15,-10.35 L -9.65,-10.35 L -11.4,-9.25 L -10.75,-8.75 L -10.75,-5.6 L -13.05,-1.75 L -13.05,0.15 L -10.65,0.15 L -6.65,4.15 L -2.65,4.15 L -1.55,5.65 L -1.55,10.25 L -4.15,12.9 L -2.55,14.25 L 1.35,14.25 L 7.55,11.25 L 4.7,9.25 L 4.7,8.15 L 6.7,5.75 L 9.2,5.75 L 13.1,0 L 10.5,-3.6 L 12.35,-8.35"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -719,7 +719,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,241.8025,306.4434)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g25716">
+       id="Shinano">
       <path
          d="M 12.3,-34 L 6.65,-27.1 L 0.15,-27.1 L -1.35,-29.35 L -6.35,-29.35 L -6.35,-26.25 L -8.3,-24.1 L -8.3,-17.85 L -13.2,-9.75 L -13.2,-5.85 L -15.05,-1.1 L -12.45,2.5 L -16.35,8.25 L -18.85,8.25 L -20.85,10.65 L -20.85,11.75 L -15.1,15.75 L -15.1,19.65 L -13.85,21.5 L -11.45,21.5 L -11.45,25.9 L -12.45,29 L -13.95,30.65 L -13.95,33.9 L -10.3,33.9 L -10.3,32.5 L -7.7,32.5 L -6.45,34 L 2.45,27.5 L 5.05,17.25 L 5.05,11.75 L 6.55,8.75 L 8.4,8.75 L 9.9,5.15 L 11.05,5.15 L 13.4,7.75 L 17.3,7.75 L 17.3,9.25 L 19.15,9.25 L 20.9,7.4 L 20.9,4.9 L 18.4,3 L 18.4,1 L 17.4,0 L 17.4,-5.75 L 18.8,-6.75 L 18.8,-8.6 L 17.15,-11.1 L 12.55,-11.1 L 10.65,-13.35 L 10.65,-15.85 L 12.05,-17.85 L 14.8,-20.1 L 14.8,-21.75 L 17.4,-21.75 L 19.55,-23 L 19.55,-24.35 L 18.55,-24.35 L 18.55,-28.25 L 17.05,-29.85 L 17.05,-32.75 L 15.15,-34 L 12.3,-34"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -728,7 +728,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,315.6966,275.5898)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g26604">
+       id="Shimotsuke">
       <path
          d="M 8.25,-16.2 C 9.4833333,-15.633333 10.7,-15.083333 11.9,-14.55 L 13.15,-11.8 L 13.15,-7.7 L 13.9,-7.7 L 13.9,7.2 L 11.15,10.8 L 8.9,10.55 L -3.85,17.45 L -6.5,15.7 L -10.75,15.7 L -13.25,13.2 L -13.25,10.55 L -10.85,5.95 L -10.85,4.45 L -13.75,3.45 L -13.75,-2.7 L -12.25,-3.8 L -13.85,-4.8 L -13.85,-7.95 L -2.5,-14.3 L -1.1,-14.3 L 1.9,-17.45 L 4,-17.45 L 8.25,-16.2"
          style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -737,7 +737,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,319.9064,239.4873)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g27492">
+       id="Mutsu">
       <path
          d="M 382.8125,8.75 L 382.8125,12.59375 L 380.8125,15.25 L 380.8125,18.59375 L 379.0625,21 L 379.0625,25.09375 L 383.3125,25.09375 L 387.9375,23.84375 L 390.6875,20 L 392.6875,22 L 392.84375,30.0625 L 389.71875,35.8125 L 388.125,33.59375 L 385.65625,33.65625 L 385.5,32.09375 L 382.9375,29.75 L 381,31.875 L 381,34.5 L 382.1875,34.40625 L 382.1875,35.75 L 380.28125,37.65625 L 378.46875,37.625 C 377.25349,34.160398 376.23452,30.301087 375.84375,25.1875 L 373.5,22.5625 L 372,24.90625 L 369.9375,24.9375 L 366.28125,20.40625 L 366.4375,25.375 L 364.78125,26.9375 L 367.34375,30.84375 L 365.15625,38.09375 L 361.53125,40.5625 L 357.21875,40.59375 L 357.3125,42.6875 L 354.21875,45.15625 L 354.25,47 L 357.03125,49.65625 L 357.0625,53.125 L 362.28125,53.15625 L 363.78125,51.71875 L 368.46875,51.625 L 370.21875,53.1875 L 375.59375,53.09375 L 375.9375,52.84375 L 375.59375,53.125 L 377.84375,54.875 L 379.09375,59.96875 L 379.09375,64.71875 L 381.1875,70.21875 L 382.78125,70.21875 L 382.78125,70.375 L 382.84375,70.34375 L 382.84375,81.21875 L 379.4375,87.96875 L 379.4375,94.21875 L 381.84375,97.46875 L 381.84375,107.0625 L 377.71875,111.65625 L 379.21875,117.90625 L 377.84375,120.90625 L 377.84375,123.8125 L 378.96875,125.0625 L 378.96875,126.15625 L 375.21875,134.90625 L 375.59375,139.96875 L 375.59375,139.96875 L 374.5,141.09375 L 372.5,141.09375 L 371.375,142.34375 L 371.375,146.84375 L 371.34375,146.84375 L 368.1875,152.09375 L 366.84375,153.34375 L 363.9375,153.34375 L 357.0625,151.21875 L 353.34375,151.21875 L 349.9375,155.84375 L 349.9375,160.34375 L 345.1875,160.34375 L 343.6875,161.84375 L 340.4375,161.84375 L 339.1875,162.65625 L 339.1875,167.71875 L 337.9375,167.96875 L 337.9375,172.46875 L 339.1875,172.46875 L 340.59375,177.59375 L 340.59375,181.96875 L 343.75,182.96875 L 355.09375,176.59375 L 356.5,176.59375 L 359.5,173.46875 L 361.59375,173.46875 L 365.84375,174.71875 L 367.65625,175.5 L 367.6875,175.5 L 369.53125,176.34375 L 370.78125,179.09375 L 370.78125,181.15625 L 373.53125,183.4375 L 377.53125,183.4375 L 380.625,181.09375 L 383.53125,181.09375 L 387.28125,183.6875 L 387.25,180.34375 L 390.875,180.34375 L 390.875,174.09375 L 392.875,169.1875 L 392.875,158.4375 L 391.875,153.84375 L 388.625,143.9375 L 388.625,138.4375 L 388.59375,138.40625 L 390.71875,133.15625 L 392.8125,130.90625 L 392.8125,127.90625 L 395.96875,127.90625 L 395.96875,125.8125 L 400.46875,125.8125 L 403.84375,128.90625 L 403.84375,131.40625 L 405.59375,130.15625 L 407.34375,130.15625 L 404.34375,125.65625 L 404.34375,122.0625 L 405.71875,122.0625 L 405.71875,121.0625 L 404.59375,119.90625 L 404.59375,117.3125 L 402.84375,117.3125 L 402.84375,115.90625 L 404.84375,114.5625 L 404.84375,111.3125 L 407.96875,108.3125 L 407.96875,104.90625 L 409.09375,103.5625 L 411.09375,103.5625 L 413.96875,102.0625 L 413.96875,98.8125 L 416.59375,95.875 L 415.4375,94.625 L 415.4375,92.96875 L 417.1875,91.71875 L 414.9375,91.71875 L 416.4375,87.71875 L 417.6875,87.71875 L 417.6875,85.71875 L 419.1875,83.96875 L 419.1875,81.875 L 417.6875,79.96875 L 415.34375,79.96875 L 415.34375,77.21875 L 416.84375,77.21875 L 416.84375,71.375 L 415.1875,69.46875 L 415.1875,66.21875 L 413.4375,66.21875 L 411.59375,64.46875 L 411.59375,62.46875 L 412.59375,62.46875 L 412.59375,60.875 L 410.59375,59.46875 L 410.59375,56.21875 L 405.4375,49.625 L 405.40625,49.6875 L 403.09375,47.03125 L 400.84375,47.03125 L 397.46875,40.03125 L 397.4375,36.28125 L 396.3125,32.5625 L 396.15625,26.5625 L 397.40625,25 L 397.40625,17.34375 L 398.3125,17.34375 L 398.3125,13.09375 L 396.9375,13.09375 L 394.4375,15.5 L 390.5625,15.5 L 389.1875,13 L 385.4375,11.34375 L 382.8125,8.75 z "
          transform="translate(-360.6508,-164.906)"
@@ -751,7 +751,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,323.655,189.6035)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g29268">
+       id="Dewa">
       <path
          d="M 363.96875,51.59375 L 362.5625,53.1875 L 356.96875,53.1875 L 359.0625,55.4375 L 359.0625,62.9375 L 355.09375,70 L 350.96875,70 L 350.96875,73.4375 L 352.5625,74.84375 L 354.46875,74.84375 L 354.46875,73.34375 L 358.21875,73.34375 L 359.8125,75.4375 L 360.96875,82.59375 L 360.96875,86.1875 L 359.0625,93.84375 L 356.21875,96.34375 L 356.21875,102.84375 L 355.15625,107.1875 L 354.15625,112.34375 L 347.5625,120.09375 L 347.5625,122.6875 L 353.40625,126.09375 L 353.40625,129.9375 L 355.15625,129.9375 L 358.15625,133.59375 L 355.90625,135.34375 L 353.40625,135.34375 L 351.65625,137.1875 L 351.65625,143.09375 L 349.90625,147.1875 L 353.3125,151.1875 L 357,151.1875 L 363.90625,153.34375 L 366.8125,153.34375 L 368.15625,152.09375 L 371.3125,146.84375 L 371.3125,142.34375 L 372.40625,141.09375 L 374.40625,141.09375 L 375.5625,140 L 375.15625,134.9375 L 378.90625,126.1875 L 378.90625,125.09375 L 377.8125,123.84375 L 377.8125,120.9375 L 379.15625,117.9375 L 377.65625,111.6875 L 381.8125,107.09375 L 381.8125,97.4375 L 379.40625,94.1875 L 379.40625,87.9375 L 382.8125,81.1875 L 382.8125,70.1875 L 381.15625,70.1875 L 379.0625,64.6875 L 379.0625,59.9375 L 377.8125,54.84375 L 375.5625,53.09375 L 370.0625,53.09375 L 368.8125,51.59375 L 363.96875,51.59375 z "
          transform="translate(-363.357,-128.897)"
@@ -791,7 +791,7 @@
     <g
        transform="matrix(1.385313,0,0,1.385313,394.9097,-56.43577)"
        style="fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-       id="g2338">
+       id="Ezo">
       <path
          d="M -32.47709,30.681686 C -27.605356,27.186005 -19.364397,11.65355 -5.2465847,21.730554 C -4.6967048,22.704673 -3.5612569,23.427834 -0.89053262,23.49302 C 2.4473,27.585359 5.1758712,28.63139 7.9211223,29.760821 C 11.957685,32.365937 16.9075,33.721698 20.944063,34.608432 C 25.281977,35.561366 25.592488,39.247767 29.629051,40.952434 C 31.569946,40.420156 28.652863,37.493799 31.097438,36.929707 C 32.452336,36.274616 31.759087,29.944512 29.917992,28.244731 C 31.296078,24.364335 36.285725,15.176844 39.173772,11.80987 C 42.269562,8.2007014 51.478948,-0.21906452 56.639401,-0.22760376 C 68.334577,-0.41750863 64.50445,3.0775651 68.436974,1.2575012 C 63.553099,-5.030035 77.042908,-6.2411269 69.549844,-2.3974351 C 70.772324,-0.66626728 73.070505,-1.802153 74.576199,-1.4870566 C 77.985174,-5.1833461 75.847322,-8.7213032 79.781803,-6.7849336 C 80.633924,-7.4961757 79.630323,-10.970943 87.899579,-9.4000976 C 85.23638,-13.767271 96.009252,-15.539868 94.144974,-18.338713 C 88.475349,-17.936588 88.095772,-13.197289 84.582438,-13.617931 C 82.884109,-13.780062 81.27242,-12.06154 78.989483,-23.301326 C 81.691992,-23.069682 85.792402,-24.424003 76.707127,-25.796164 C 71.439041,-27.311707 74.694981,-39.298429 77.345635,-41.302349 C 79.099759,-46.458596 80.183991,-51.118182 79.041903,-51.876996 C 77.686839,-50.701806 73.285027,-43.589329 70.006634,-40.779874 C 66.784062,-38.018255 67.528953,-35.146351 65.058204,-34.965512 C 56.431887,-33.55062 52.201876,-36.266405 50.812475,-40.800743 C 46.31072,-41.085989 52.591561,-40.108411 49.480617,-40.963283 C 50.359404,-39.447655 46.58699,-33.273338 47.406247,-41.038768 C 46.628541,-42.837673 47.288869,-40.889063 43.659273,-41.535193 C 42.113298,-37.384443 33.009458,-41.714027 37.232392,-43.102159 C 29.319592,-44.624427 23.302461,-51.754103 17.725859,-53.850381 C 9.2747938,-62.153404 2.508407,-73.071949 -7.3062875,-83.197312 C -9.2921382,-85.841913 -11.591117,-87.651507 -14.488134,-87.866329 C -13.917504,-84.39032 -19.049507,-86.649622 -22.092099,-77.660311 C -17.34683,-65.232132 -14.526825,-58.888031 -16.053473,-54.239655 C -15.106308,-49.162259 -17.596216,-45.64803 -18.461119,-44.625279 C -20.503104,-42.210624 -16.570638,-36.122262 -18.248358,-32.29676 C -13.753412,-34.984448 -15.626882,-25.864704 -21.275971,-27.639328 C -28.094272,-23.462636 -25.465182,-23.281425 -26.050001,-21.502021 C -25.461413,-19.913404 -25.381122,-17.308194 -23.971026,-17.362593 C -27.017026,-15.807834 -21.865925,-13.161278 -23.18883,-7.1921669 C -28.319493,-0.66010188 -27.795564,-0.077604718 -33.133636,-2.1428257 C -32.246269,-6.287174 -36.658781,-2.1537633 -39.588186,-2.3472912 C -40.608544,-3.297533 -45.744877,-7.0500339 -47.660024,-8.4442397 C -48.830044,-8.2965484 -46.863172,-5.944826 -51.30042,-6.7841893 C -54.494771,-0.96312067 -49.328356,-0.97505504 -46.103866,5.389899 C -48.088283,6.2697811 -50.573177,6.6685297 -51.892389,13.777127 C -54.674274,14.025257 -53.451552,10.425382 -56.071755,11.940779 C -55.551152,17.659779 -61.868007,15.98994 -64.900037,19.892881 C -61.706803,31.161147 -68.159365,29.061122 -65.505283,33.512457 C -64.035368,35.760882 -62.028683,32.999994 -61.818041,37.66842 C -57.77263,39.203309 -56.396505,41.383246 -55.389903,44.17905 C -54.608334,46.91081 -56.008442,48.729794 -56.749951,50.659374 C -59.768059,55.574233 -58.708235,59.90653 -57.557934,64.225902 C -51.88658,62.464173 -51.124465,66.506472 -51.904912,64.550932 C -52.677725,57.160602 -44.988937,65.547362 -46.627499,53.307488 C -43.88237,53.301393 -41.731202,52.123996 -42.010742,47.886503 L -38.681488,50.885601 C -35.088307,49.660101 -32.763349,50.971047 -30.675195,52.755602 C -29.351597,51.32378 -28.061453,49.975596 -26.147046,47.066752 L -32.132614,43.729324 C -33.35301,40.630613 -36.904724,38.864084 -40.173771,36.93603 L -43.920509,37.886523 C -46.303352,36.053756 -48.005255,33.540049 -51.781846,33.10103 C -51.41729,30.680078 -50.743471,19.55532 -44.520357,21.46628 C -38.666772,17.591113 -39.330435,23.491819 -36.814658,24.623365 C -35.393638,26.965677 -34.16892,31.859902 -32.47709,30.681686 z "
          style="opacity:1;fill:#fcf5e3;fill-opacity:1;stroke:#787878;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -847,7 +847,7 @@
   <g
      transform="translate(184.2663,51.5401)"
      style="display:inline"
-     id="layer2">
+     id="coast">
     <path
        d=""
        style="fill:none;fill-opacity:1;stroke:#27aaea;stroke-width:0.8311879;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -996,641 +996,5 @@
        transform="translate(-9.2035,133.8358)"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#27aaea;stroke-width:0.8311879;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        id="path6132" />
-  </g>
-  <g
-     transform="translate(178.416,43.59093)"
-     style="display:inline"
-     id="layer4">
-    <text
-       x="339.59277"
-       y="107.58848"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3727"
-       xml:space="preserve"><tspan
-         x="339.59277"
-         y="107.58848"
-         id="tspan3729">Ezo</tspan></text>
-    <text
-       x="352.13916"
-       y="287.94846"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3731"
-       xml:space="preserve"><tspan
-         x="352.13916"
-         y="287.94846"
-         id="tspan3733">Mutsu</tspan></text>
-    <text
-       x="313.24832"
-       y="293.95886"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3735"
-       xml:space="preserve"><tspan
-         x="313.24832"
-         y="293.95886"
-         id="tspan3737">Dewa</tspan></text>
-    <text
-       x="243.95183"
-       y="352.64874"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3739"
-       xml:space="preserve"><tspan
-         x="243.95183"
-         y="352.64874"
-         id="tspan3741">Sado</tspan></text>
-    <text
-       x="254.2049"
-       y="395.42868"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3743"
-       xml:space="preserve"><tspan
-         x="254.2049"
-         y="395.42868"
-         id="tspan3745">Echigo</tspan></text>
-    <text
-       x="186.32265"
-       y="387.29697"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3747"
-       xml:space="preserve"><tspan
-         x="186.32265"
-         y="387.29697"
-         id="tspan3749">Noto</tspan></text>
-    <text
-       x="294.15643"
-       y="417.349"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3751"
-       xml:space="preserve"><tspan
-         x="294.15643"
-         y="417.349"
-         id="tspan3753">Shimotsuke</tspan></text>
-    <text
-       x="323.1478"
-       y="440.68353"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3755"
-       xml:space="preserve"><tspan
-         x="323.1478"
-         y="440.68353"
-         id="tspan3757">Hitachi</tspan></text>
-    <text
-       x="318.90515"
-       y="464.72516"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3759"
-       xml:space="preserve"><tspan
-         x="318.90515"
-         y="464.72516"
-         id="tspan3761">Shimofusa</tspan></text>
-    <text
-       x="318.90515"
-       y="487.70615"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3763"
-       xml:space="preserve"><tspan
-         x="318.90515"
-         y="487.70615"
-         id="tspan3765">Kasuza</tspan></text>
-    <text
-       x="311.48053"
-       y="502.55536"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3767"
-       xml:space="preserve"><tspan
-         x="311.48053"
-         y="502.55536"
-         id="tspan3769">Awa</tspan></text>
-    <text
-       x="263.75082"
-       y="428.30917"
-       style="font-size:8px;font-style:italic;font-weight:normal;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3771"
-       xml:space="preserve"><tspan
-         x="263.75082"
-         y="428.30917"
-         id="tspan3773">Kōzuke</tspan></text>
-    <text
-       x="279.66074"
-       y="461.18964"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3775"
-       xml:space="preserve"><tspan
-         x="279.66074"
-         y="461.18964"
-         id="tspan3777">Musashi</tspan></text>
-    <text
-       x="195.86858"
-       y="422.65231"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3779"
-       xml:space="preserve"><tspan
-         x="195.86858"
-         y="422.65231"
-         id="tspan3781">Etchū</tspan></text>
-    <text
-       x="224.50639"
-       y="449.52237"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3783"
-       xml:space="preserve"><tspan
-         x="224.50639"
-         y="449.52237"
-         id="tspan3785">Shinano</tspan></text>
-    <text
-       x="251.37646"
-       y="476.03888"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3787"
-       xml:space="preserve"><tspan
-         x="251.37646"
-         y="476.03888"
-         id="tspan3789">Kai</tspan></text>
-    <text
-       x="269.76123"
-       y="514.22266"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3791"
-       xml:space="preserve"><tspan
-         x="269.76123"
-         y="514.22266"
-         id="tspan3793">Izu</tspan></text>
-    <text
-       x="276.83231"
-       y="487.70612"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3795"
-       xml:space="preserve"><tspan
-         x="276.83231"
-         y="487.70612"
-         id="tspan3797">Sagami</tspan></text>
-    <text
-       x="247.84093"
-       y="504.6767"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3799"
-       xml:space="preserve"><tspan
-         x="247.84093"
-         y="504.6767"
-         id="tspan3801">Suruga</tspan></text>
-    <text
-       x="223.44574"
-       y="518.11176"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3803"
-       xml:space="preserve"><tspan
-         x="223.44574"
-         y="518.11176"
-         id="tspan3805">Tōtomi</tspan></text>
-    <text
-       x="168.64497"
-       y="436.79443"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3807"
-       xml:space="preserve"><tspan
-         x="168.64497"
-         y="436.79443"
-         id="tspan3809">Kaga</tspan></text>
-    <text
-       x="196.57568"
-       y="451.29013"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3811"
-       xml:space="preserve"><tspan
-         x="196.57568"
-         y="451.29013"
-         id="tspan3813">Hida</tspan></text>
-    <text
-       x="156.2706"
-       y="462.25031"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3815"
-       xml:space="preserve"><tspan
-         x="156.2706"
-         y="462.25031"
-         id="tspan3817">Echizen</tspan></text>
-    <text
-       x="176.7767"
-       y="480.63507"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3819"
-       xml:space="preserve"><tspan
-         x="176.7767"
-         y="480.63507"
-         id="tspan3821">Mino</tspan></text>
-    <text
-       x="194.10081"
-       y="510.33353"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3823"
-       xml:space="preserve"><tspan
-         x="194.10081"
-         y="510.33353"
-         id="tspan3825">Mikawa</tspan></text>
-    <text
-       x="182.43356"
-       y="498.31274"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text3827"
-       xml:space="preserve"><tspan
-         x="182.43356"
-         y="498.31274"
-         id="tspan3829">Owari</tspan></text>
-    <text
-       x="194.75"
-       y="546.51605"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text6686"
-       xml:space="preserve"><tspan
-         x="194.75"
-         y="546.51605"
-         id="tspan6688">Shima</tspan></text>
-    <path
-       d="M 194.5,543.01605 L 186.75,537.76605"
-       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Dot_s);stroke-opacity:1"
-       id="path6694" />
-    <text
-       x="155.25"
-       y="523.26605"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text7583"
-       xml:space="preserve"><tspan
-         x="155.25"
-         y="523.26605"
-         id="tspan7585">Iga</tspan></text>
-    <text
-       x="164"
-       y="534.26605"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text7587"
-       xml:space="preserve"><tspan
-         x="164"
-         y="534.26605"
-         id="tspan7589">Ise</tspan></text>
-    <text
-       x="133"
-       y="550.01605"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text7591"
-       xml:space="preserve"><tspan
-         x="133"
-         y="550.01605"
-         id="tspan7593">Yamato</tspan></text>
-    <text
-       x="133.5"
-       y="571.76605"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text7595"
-       xml:space="preserve"><tspan
-         x="133.5"
-         y="571.76605"
-         id="tspan7597">Kii</tspan></text>
-    <text
-       x="152.81065"
-       y="505.53381"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text7599"
-       xml:space="preserve"><tspan
-         x="152.81065"
-         y="505.53381"
-         id="tspan7601">Ōmi</tspan></text>
-    <text
-       x="176"
-       y="563.01605"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text7603"
-       xml:space="preserve"><tspan
-         x="176"
-         y="563.01605"
-         id="tspan7605">Kawa</tspan></text>
-    <path
-       d="M 175.25,558.76605 L 134,532.51605"
-       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;marker-mid:none;marker-end:url(#Dot_s);stroke-opacity:1"
-       id="path7607" />
-    <text
-       x="124.75"
-       y="595.76605"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text8496"
-       xml:space="preserve"><tspan
-         x="124.75"
-         y="595.76605"
-         id="tspan8498">Izumi</tspan></text>
-    <path
-       d="M 123,593.01605 L 124.5,534.76605"
-       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;marker-mid:none;marker-end:url(#Dot_s);stroke-opacity:1"
-       id="path8500" />
-    <path
-       d="M 141.0678,493.71654 L 109.60155,436.08734"
-       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;marker-start:url(#Dot_s);stroke-opacity:1"
-       id="path9389" />
-    <text
-       x="96.520073"
-       y="434.31958"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text10276"
-       xml:space="preserve"><tspan
-         x="96.520073"
-         y="434.31958"
-         id="tspan10278">Yamashiro</tspan></text>
-    <path
-       d="M 141.77491,464.01805 L 149.90664,477.45308"
-       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Dot_s);stroke-opacity:1"
-       id="path10280" />
-    <text
-       x="128.69344"
-       y="461.54318"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11167"
-       xml:space="preserve"><tspan
-         x="128.69344"
-         y="461.54318"
-         id="tspan11169">Wasaka</tspan></text>
-    <text
-       x="113.13709"
-       y="517.75818"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11171"
-       xml:space="preserve"><tspan
-         x="113.13709"
-         y="517.75818"
-         id="tspan11173">Settsu</tspan></text>
-    <text
-       x="111.72287"
-       y="498.31274"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11175"
-       xml:space="preserve"><tspan
-         x="111.72287"
-         y="498.31274"
-         id="tspan11177">Tanba</tspan></text>
-    <text
-       x="106.77312"
-       y="475.6853"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11179"
-       xml:space="preserve"><tspan
-         x="106.77312"
-         y="475.6853"
-         id="tspan11181">Tango</tspan></text>
-    <text
-       x="89.802559"
-       y="488.41324"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11183"
-       xml:space="preserve"><tspan
-         x="89.802559"
-         y="488.41324"
-         id="tspan11185">Tajima</tspan></text>
-    <text
-       x="80.96373"
-       y="509.98001"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11187"
-       xml:space="preserve"><tspan
-         x="80.96373"
-         y="509.98001"
-         id="tspan11189">Harima</tspan></text>
-    <text
-       x="69.650017"
-       y="480.63507"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11191"
-       xml:space="preserve"><tspan
-         x="69.650017"
-         y="480.63507"
-         id="tspan11193">Ibana</tspan></text>
-    <text
-       x="42.779961"
-       y="484.17059"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11195"
-       xml:space="preserve"><tspan
-         x="42.779961"
-         y="484.17059"
-         id="tspan11197">Hōki</tspan></text>
-    <text
-       x="22.273863"
-       y="439.62286"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11199"
-       xml:space="preserve"><tspan
-         x="22.273863"
-         y="439.62286"
-         id="tspan11201">Oki</tspan></text>
-    <text
-       x="49.497475"
-       y="497.60562"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11203"
-       xml:space="preserve"><tspan
-         x="49.497475"
-         y="497.60562"
-         id="tspan11205">Mimakasa</tspan></text>
-    <text
-       x="56.922096"
-       y="518.81885"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11207"
-       xml:space="preserve"><tspan
-         x="56.922096"
-         y="518.81885"
-         id="tspan11209">Bizen</tspan></text>
-    <text
-       x="91.923882"
-       y="537.55719"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11211"
-       xml:space="preserve"><tspan
-         x="91.923882"
-         y="537.55719"
-         id="tspan11213">Awaji</tspan></text>
-    <text
-       x="24.395185"
-       y="545.33533"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11215"
-       xml:space="preserve"><tspan
-         x="24.395185"
-         y="545.33533"
-         id="tspan11217">Bitchū </tspan></text>
-    <text
-       x="69.296463"
-       y="560.53815"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text11219"
-       xml:space="preserve"><tspan
-         x="69.296463"
-         y="560.53815"
-         id="tspan11221">Awa</tspan></text>
-    <path
-       d="M 46.669048,538.61782 L 47.729708,521.64726"
-       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Dot_s);stroke-opacity:1"
-       id="path11223" />
-    <text
-       x="54.800774"
-       y="543.56757"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12110"
-       xml:space="preserve"><tspan
-         x="54.800774"
-         y="543.56757"
-         id="tspan12112">Sanuki</tspan></text>
-    <text
-       x="17.67767"
-       y="512.10132"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12114"
-       xml:space="preserve"><tspan
-         x="17.67767"
-         y="512.10132"
-         id="tspan12116">Bingo</tspan></text>
-    <text
-       x="14.495688"
-       y="489.12033"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12118"
-       xml:space="preserve"><tspan
-         x="14.495688"
-         y="489.12033"
-         id="tspan12120">Izumo</tspan></text>
-    <text
-       x="-11.313708"
-       y="505.73737"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12122"
-       xml:space="preserve"><tspan
-         x="-11.313708"
-         y="505.73737"
-         id="tspan12124">Iwami</tspan></text>
-    <text
-       x="-2.4748733"
-       y="528.36481"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12126"
-       xml:space="preserve"><tspan
-         x="-2.4748733"
-         y="528.36481"
-         id="tspan12128">Aki</tspan></text>
-    <text
-       x="-32.880466"
-       y="544.62823"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12130"
-       xml:space="preserve"><tspan
-         x="-32.880466"
-         y="544.62823"
-         id="tspan12132">Suwo</tspan></text>
-    <text
-       x="-57.982758"
-       y="535.78943"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12134"
-       xml:space="preserve"><tspan
-         x="-57.982758"
-         y="535.78943"
-         id="tspan12136">Nagato</tspan></text>
-    <text
-       x="15.55635"
-       y="565.48785"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12138"
-       xml:space="preserve"><tspan
-         x="15.55635"
-         y="565.48785"
-         id="tspan12140">Iyo</tspan></text>
-    <text
-       x="38.537319"
-       y="573.61963"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12142"
-       xml:space="preserve"><tspan
-         x="38.537319"
-         y="573.61963"
-         id="tspan12144">Tosa</tspan></text>
-    <text
-       x="-71.771339"
-       y="572.55896"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12146"
-       xml:space="preserve"><tspan
-         x="-71.771339"
-         y="572.55896"
-         id="tspan12148">Buzen</tspan></text>
-    <text
-       x="-52.325901"
-       y="597.66125"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12150"
-       xml:space="preserve"><tspan
-         x="-52.325901"
-         y="597.66125"
-         id="tspan12152">Bungo</tspan></text>
-    <text
-       x="-102.88405"
-       y="571.49829"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12154"
-       xml:space="preserve"><tspan
-         x="-102.88405"
-         y="571.49829"
-         id="tspan12156">Chizuken</tspan></text>
-    <text
-       x="-116.67262"
-       y="583.5191"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12158"
-       xml:space="preserve"><tspan
-         x="-116.67262"
-         y="583.5191"
-         id="tspan12160">Hizen</tspan></text>
-    <text
-       x="-160.51324"
-       y="624.88483"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text12162"
-       xml:space="preserve"><tspan
-         x="-160.51324"
-         y="624.88483"
-         id="tspan12164">Chikugo</tspan></text>
-    <path
-       d="M -130.10765,622.05642 L -83.085047,588.11529"
-       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Dot_s);stroke-opacity:1"
-       id="path12166" />
-    <text
-       x="-79.903069"
-       y="614.27826"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text13053"
-       xml:space="preserve"><tspan
-         x="-79.903069"
-         y="614.27826"
-         id="tspan13055">Higo</tspan></text>
-    <text
-       x="-61.164734"
-       y="627.71326"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text13057"
-       xml:space="preserve"><tspan
-         x="-61.164734"
-         y="627.71326"
-         id="tspan13059">Hyūga</tspan></text>
-    <text
-       x="-83.792145"
-       y="676.15009"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text13061"
-       xml:space="preserve"><tspan
-         x="-83.792145"
-         y="676.15009"
-         id="tspan13063">Ōsumi</tspan></text>
-    <text
-       x="-108.89444"
-       y="649.98712"
-       style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:serif"
-       id="text13065"
-       xml:space="preserve"><tspan
-         x="-108.89444"
-         y="649.98712"
-         id="tspan13067">Satsuma</tspan></text>
   </g>
 </svg>
