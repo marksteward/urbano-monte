@@ -1,0 +1,94 @@
+<html>
+<style>
+body {
+    padding: 0;
+    margin: 0;
+}
+object {
+    vertical-align: middle;
+}
+
+</style>
+
+<object data="Provinces_of_Japan_with_named_objects.svg" id="new" style="width: 50%"></object><!--
+--><object data="Urbano_Monte_Japan_with_named_objects_sm2.svg" id="old" style="width: 50%"></object>
+
+<script>
+var current_src = null;
+var current_fill = null;
+var current_dest = null;
+
+function highlight(el, val) {
+    el.style.fill = val;
+    let nodes = el.querySelectorAll('*');
+    for (let node of nodes) {
+        node.style.fill = val;
+    }
+}
+
+function useViewBox(el) {
+    let width = el.getAttribute('width');
+    let height = el.getAttribute('height');
+    el.removeAttribute('width');
+    el.removeAttribute('height');
+    el.setAttribute('preserveAspectRatio', 'xMinYMin meet');
+    el.setAttribute('viewBox', '0 0 ' + width + ' ' + height);
+}
+
+window.addEventListener('load', function() {
+    let map_new = document.getElementById('new').contentDocument;
+    let map_old = document.getElementById('old').contentDocument;
+    useViewBox(map_new.querySelector('svg'));
+    useViewBox(map_old.querySelector('svg'));
+
+    let es = map_old.querySelectorAll('ellipse');
+    for (let e of es) {
+        e.style.stroke = '';
+        let e_new = map_new.getElementById(e.id);
+        if (e_new) {
+            highlight(e_new, '#80ff70');
+        } else {
+            console.log(e.id);
+        }
+    }
+
+    let gs = map_new.querySelectorAll('g');
+    for (let g of gs) {
+        g.addEventListener('mouseover', function(e) {
+            let src = e.srcElement;
+            if (src.id.startsWith('path') || src.id.startsWith('rect')) {
+                src = src.parentNode;
+            }
+            if (src.id == 'Biwa') {
+                // Do nothing
+            } else if (src.id == 'sea' || src.id == 'coast' || src.id == 'regions' ||
+                       src.id.startsWith('g') || src.id.startsWith('tspan')) {
+
+                if (current_src) highlight(current_src, current_fill);
+                if (current_dest) highlight(current_dest, 'none');
+
+                current_src = null;
+                current_dest = null;
+
+            } else {
+
+                dest = map_old.getElementById(src.id);
+
+                if (current_src) highlight(current_src, current_fill);
+                if (current_dest) highlight(current_dest, 'none');
+
+                current_src = src;
+                current_fill = current_src.style.fill;
+                current_dest = dest;
+
+                highlight(current_src, '#f52');
+                if (current_dest) {
+                    highlight(current_dest, '#f52');
+                }
+            }
+        })
+    }
+});
+</script>
+
+</html>
